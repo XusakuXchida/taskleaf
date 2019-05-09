@@ -31,6 +31,7 @@ gem 'bootstrap'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 gem 'rails_autolink'
+gem 'pry-rails'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
